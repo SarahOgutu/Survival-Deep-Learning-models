@@ -7,6 +7,6 @@ We further explore handling missing values with missForest.
 2. Investigate different strategies for incorporating longitudinal cytokine profiles into predictive models (Such as using the summary statistics of the cytokine data).
 3. Demonstrate the utility of using Dynamic DeepHit for handling time-varying covariates in high-dimensional survival data.
 ## Dataset
-The data (CAP004) used for this analysis was obtained from CAPRISA (https://www.caprisa.org/Pages/CAPRISAStudies}{CAPRISAStudies).
+The data (CAP004) used for this analysis was obtained from CAPRISA (https://www.caprisa.org/Pages/CAPRISAStudies).
 ## Supplementary materials
 These Github repositories DeepSurv (https://github.com/jaredleekatzman/DeepSurv), DeepHit (https://nbviewer.org/github/havakv/pycox/tree/master/examples/), and Dynamic DeepHit (https://github.com/chl8856/Dynamic-DeepHit/tree/master) were instrumental in creating the Python script codes provided here.
