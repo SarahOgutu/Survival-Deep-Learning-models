@@ -16,5 +16,5 @@ Sarah Ogutu, Mohanad Mohammed, Henry Mwambi
 These Github repositories DeepSurv (https://github.com/jaredleekatzman/DeepSurv), DeepHit (https://nbviewer.org/github/havakv/pycox/tree/master/examples/), and Dynamic DeepHit (https://github.com/chl8856/Dynamic-DeepHit/tree/master) were instrumental in creating the Python script codes provided here.
 ## References
 Ogutu, S., Mohammed, M. & Mwambi, H. Deep learning models for the analysis of high-dimensional survival data with time-varying covariates while handling missing data. Discov Artif Intell 5, 176 (2025)
-## Code Desciption
+## Code Description
 The Python scripts are provided, and they give a point-by-point step of how the analysis was achieved. 
